@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TasbihCunter</string>
+    <string name="ZERO">0</string>
+    <string name="count">count</string>
+    <string name="restart">restart</string>
+    <string name="cancel">cancel</string>
+</resources>
